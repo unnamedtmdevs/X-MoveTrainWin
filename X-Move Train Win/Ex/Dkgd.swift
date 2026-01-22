@@ -5,5 +5,5 @@
 
 struct DataManagers {
     
-    let server: String = "https://lastreflex775.site/f9HZ6KDR"
+    let server: String = "https://movetrainwin131.site/Chph8D2D"
 }
